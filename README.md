@@ -32,8 +32,6 @@ Research investigating the use of machine learning, cost-aware evaluation, anoma
 
 **[View AI/ML Fraud Anomaly Detection Research →](https://github.com/evaebaide/ai-ml-fraud-anomaly-detection)**
 
-*Featured research repository being prepared.*
-
 ---
 
 ## Cybersecurity Projects
