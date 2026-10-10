@@ -1,5 +1,3 @@
-# cybersecurity-ai-ml-data-analytics-portfolio
-
 # Cybersecurity, AI/ML & Data Analytics Portfolio
 
 **Applied AI Research • Cybersecurity Analytics • Fraud Detection • Explainable AI • Data Visualization**
