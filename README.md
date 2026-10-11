@@ -10,7 +10,7 @@ I hold a Doctor of Engineering (D.Eng.) in Cybersecurity Analytics from The Geor
 
 ## Featured Research
 
-### AI/ML Fraud Anomaly Detection — Cost-Aware & Explainable AI
+### AI/ML Fraud Anomaly Detection | Cost-Aware & Explainable AI
 
 **Doctoral Praxis | D.Eng. Cybersecurity Analytics | The George Washington University**
 
